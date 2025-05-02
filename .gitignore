@@ -1,0 +1,7 @@
+.vscode/
+arm7/build/
+arm9/build/
+*.elf
+*.lst
+*.lnk
+*.nds
